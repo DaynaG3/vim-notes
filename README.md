@@ -1,5 +1,11 @@
 # vim-notes
 
+## NVIM Useful Shortcuts
+```
+<ctrl-b>       open the "package explorer"
+a              create a new file at the "package explorer"
+```
+
 ## Movement through text
 ```
 h, j, k, l      move cursor left, down, up, right
