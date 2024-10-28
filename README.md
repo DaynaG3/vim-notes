@@ -4,6 +4,8 @@
 ```
 <ctrl-b>       open the "package explorer"
 a              create a new file at the "package explorer"
+vsp or hsp     split window vertically or horizontally
+
 ```
 
 ## Movement through text
