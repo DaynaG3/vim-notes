@@ -89,6 +89,7 @@ V               start linewise visual mode
 o               move to other end of marked area
 <ctrl-v>        start visual block mode
 O               move to other corner of block
+gv              highlight previously highlighted text
 vaw             mark a word
 vab, va(, va)   mark a block with ()
 vaB, va{, va}   mark a block with {}
